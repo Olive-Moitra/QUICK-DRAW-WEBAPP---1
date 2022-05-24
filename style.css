@@ -1,0 +1,15 @@
+.body {
+background-color: mediumorchid;
+}
+
+#score{
+    font-size: 25px;
+    float: left;
+    margin-left: 20px;
+}
+
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 30px;
+}
